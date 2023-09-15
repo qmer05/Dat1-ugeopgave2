@@ -1,6 +1,6 @@
 void setup() {
-  int sum = add(5, 10);
-  println(sum);
+  int total = add(5, 10);
+  println(total);
 }
 
 int add(int a, int b) {
@@ -9,7 +9,7 @@ int add(int a, int b) {
 }
 
 /* alternativt
-
+ 
  int add;
  
  void setup() {
